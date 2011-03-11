@@ -9,7 +9,7 @@ my company profile @ http://wearefound.com.
 For more, head out to [my site](http://kevin.h-pk-ns.com/) or to the [Appcelerator Developer Center](http://developer.appcelerator.com).
 
 
-# ANDROID AND iOS USERS:
+# Android and iOS Users:
 -----------------------
 Implementation works the same cross-platform.  Enjoy!
 
