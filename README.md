@@ -1,4 +1,4 @@
-Developed by Kevin L. Hopkins ( [personal site](http://kevin.h-pk-ns.com) [Found Design + Interactive](http://wearefound.com) )
+Developed by Kevin L. Hopkins ( [personal site](http://kevin.h-pk-ns.com) or [Found Design + Interactive](http://wearefound.com) )
 You may borrow, steal, use this in any way you feel necessary but please
 leave attribution to me as the source.  If you feel especially grateful,
 give me a linkback from your blog, a shoutout @Devneck on Twitter, or 
