@@ -21,15 +21,15 @@ If you have any questions, please feel free to ask on my [blog](http://kevin.h-p
 # Usage:
 --------
 cachedImageView Usage:
-
+        Ti.include('lib/cachedImageView.js');
 	function createMyImage() {
-		Ti.include('lib/cachedImageView.js');
 		var win = Ti.UI.currentWindow;
 	
 		var imgMyImage = Ti.UI.createImageView({
 			width: 120,
 			height: 120,
-			image: 'default.png'
+			top:10,
+                        left:10
 		});
 	
 		cachedImageView('imageDirectoryName', 'http://MyRemoteServer.com/public/images/1.png', imgMyImage);
@@ -40,4 +40,4 @@ cachedImageView Usage:
 
 # License:
 ----------
-Copyright © 2001 Kevin L. Hopkins. It is free software, and may be redistributed under the terms specified in the LICENSE file.
+Copyright © 2011 Kevin L. Hopkins. It is free software, and may be redistributed under the terms specified in the LICENSE file.
