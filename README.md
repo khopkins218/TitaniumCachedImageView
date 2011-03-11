@@ -15,7 +15,7 @@ Implementation works the same cross-platform.  Enjoy!
 
 # Questions?
 ------------
-If you have any questions, please feel free to ask on my[blog](http://kevin.h-pk-ns.com/blog).
+If you have any questions, please feel free to ask on my [blog](http://kevin.h-pk-ns.com/) or via the contact information found there.
 
 
 # Usage:
