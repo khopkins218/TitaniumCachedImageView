@@ -22,21 +22,21 @@ If you have any questions, please feel free to ask on my[blog](http://kevin.h-pk
 --------
 cachedImageView Usage:
 
-function createMyImage() {
-	Ti.include('lib/cachedImageView.js');
-	var win = Ti.UI.currentWindow;
+	function createMyImage() {
+		Ti.include('lib/cachedImageView.js');
+		var win = Ti.UI.currentWindow;
 	
-	var imgMyImage = Ti.UI.createImageView({
-		width: 120,
-		height: 120,
-		image: 'default.png'
-	});
+		var imgMyImage = Ti.UI.createImageView({
+			width: 120,
+			height: 120,
+			image: 'default.png'
+		});
 	
-	cachedImageView('imageDirectoryName', 'http://MyRemoteServer.com/public/images/1.png', imgMyImage);
+		cachedImageView('imageDirectoryName', 'http://MyRemoteServer.com/public/images/1.png', imgMyImage);
 	
-	win.add(imgMyImage);
-	win.open({animated:true});
-};
+		win.add(imgMyImage);
+		win.open({animated:true});
+	};
 
 # License:
 ----------
