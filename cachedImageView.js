@@ -18,6 +18,8 @@ cachedImageView = function(imageDirectoryName, url, imageViewObject)
 	if (file.exists()) {
 		// If it has been cached, assign the local asset path to the image view object.
 		imageViewObject.image = file.nativePath;
+		//To release memory
+		file = null;
 	} else {
 		// If it hasn't been cached, grab the directory it will be stored in.
 		var g = Ti.Filesystem.getFile(Ti.Filesystem.applicationDataDirectory, imageDirectoryName);
@@ -36,6 +38,8 @@ cachedImageView = function(imageDirectoryName, url, imageViewObject)
 				file.write(xhr.responseData);
 				// Assign the local asset path to the image view object.
 				imageViewObject.image = file.nativePath;
+				//To release memory
+				file = null;
 			};
 		};
 		
