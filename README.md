@@ -1,9 +1,3 @@
-Developed by Kevin L. Hopkins ( [personal site](http://kevin.h-pk-ns.com) or [Found Design + Interactive](http://wearefound.com) )
-You may borrow, steal, use this in any way you feel necessary but please
-leave attribution to me as the source.  If you feel especially grateful,
-give me a linkback from your blog, a shoutout @Devneck on Twitter, or 
-my company profile @ http://wearefound.com.
-
 # For Titanium Mobile - cachedImageView.js
 ------------------------------------------
 For more, head out to [my site](http://kevin.h-pk-ns.com/) or to the [Appcelerator Developer Center](http://developer.appcelerator.com).
@@ -40,4 +34,4 @@ cachedImageView Usage:
 
 # License:
 ----------
-Copyright © 2011 Kevin L. Hopkins. It is free software, and may be redistributed under the terms specified in the LICENSE file.
+No License, just use and enjoy!
