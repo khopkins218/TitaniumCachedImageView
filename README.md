@@ -1,4 +1,4 @@
-# cachedImageView.js
+# Titanium CachedImageView
 ------------------------------------------
 For more, head out to [my site](http://kevin.h-pk-ns.com/) or to the [Appcelerator Developer Center](http://developer.appcelerator.com).
 
