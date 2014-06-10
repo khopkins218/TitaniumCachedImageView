@@ -1,18 +1,18 @@
-# For Titanium Mobile - cachedImageView.js
+# cachedImageView.js
 ------------------------------------------
 For more, head out to [my site](http://kevin.h-pk-ns.com/) or to the [Appcelerator Developer Center](http://developer.appcelerator.com).
 
 
-# Android and iOS Users:
+## Android and iOS Users:
 -----------------------
 Implementation works the same cross-platform.  Enjoy!
 
-# Questions?
+## Questions?
 ------------
 If you have any questions, please feel free to ask on my [blog](http://kevin.h-pk-ns.com/) or via the contact information found there.
 
 
-# Usage:
+## Usage:
 --------
 cachedImageView Usage:
         Ti.include('lib/cachedImageView.js');
